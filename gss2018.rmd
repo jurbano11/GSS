@@ -73,3 +73,5 @@ The inferential results have given us a low p-value which is the statistical evi
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion, people that have a higher education level tend to vote more than people that have a lower level of education. This can be observed by the mean education level of both groups. The people who had a higher education level had a mean of 15 and the ones that didn't vote had a lower mean of 13. 
