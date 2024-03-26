@@ -30,7 +30,7 @@ Is there a difference in years of education (EDUC) between the those who did or 
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-
+I looked at the data and it had a numerical variable which was education and had a factor variable which was VOTE16 so the Numerical~Cat/rmd helper file was used 
 
 
 
