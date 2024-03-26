@@ -44,6 +44,12 @@ I looked at the data and it had a numerical variable which was education and had
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+plot(EDUC~VOTE16,data=GSSdata)
+```
+
+Looking at the median, people who voted have a median of 15 years of education and people who didn't vote have a median of 13 years of education
+
 #### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
