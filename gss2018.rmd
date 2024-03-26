@@ -53,7 +53,7 @@ First question - Is opinion on the death penalty (CAPPUN) independent of gun own
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
 
-Is there a difference in years of education (EDUC) between the those who did or did not vote in 2012 (VOTE12)?
+Is there a difference in years of education (EDUC) between the those who did or did not vote in 2012 (VOTE16)?
 
 ## Methods
 
